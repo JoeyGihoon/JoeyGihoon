@@ -1,3 +1,5 @@
+### Hi there I'm Joey 👋
+
 - 👋 Hi, I’m @JoeyGihoon
 - 👀 I’m interested in automobile engineering & cpp.
 - 🌱 I’m currently learning cpp.
